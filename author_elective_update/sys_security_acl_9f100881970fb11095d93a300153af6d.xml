@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl">
+    <sys_security_acl action="DELETE">
+        <active>true</active>
+        <admin_overrides>true</admin_overrides>
+        <advanced>false</advanced>
+        <condition/>
+        <description>Default access control on x_58872_needit_u_cmdb_ci_hardware_infinity</description>
+        <local_or_existing>Local</local_or_existing>
+        <name>x_58872_needit_u_cmdb_ci_hardware_infinity</name>
+        <operation display_value="create">create</operation>
+        <script/>
+        <security_attribute/>
+        <sys_class_name>sys_security_acl</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-12-09 13:59:19</sys_created_on>
+        <sys_id>9f100881970fb11095d93a300153af6d</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_58872_needit_u_cmdb_ci_hardware_infinity</sys_name>
+        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_update_name>sys_security_acl_9f100881970fb11095d93a300153af6d</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-12-09 13:59:19</sys_updated_on>
+        <type display_value="record">record</type>
+    </sys_security_acl>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</application>
+        <file_path/>
+        <instance_id>b2b0fa1edbc2f7880b9d21c4059619b6</instance_id>
+        <instance_name>dev87927</instance_name>
+        <name>sys_security_acl_9f100881970fb11095d93a300153af6d</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl"><sys_security_acl action="INSERT_OR_UPDATE"><active>true</active><admin_overrides>true</admin_overrides><advanced>false</advanced><condition/><description>Default access control on x_58872_needit_u_cmdb_ci_hardware_infinity</description><local_or_existing>Local</local_or_existing><name>x_58872_needit_u_cmdb_ci_hardware_infinity</name><operation display_value="create">create</operation><script/><security_attribute/><sys_class_name>sys_security_acl</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2023-12-09 13:59:19</sys_created_on><sys_id>9f100881970fb11095d93a300153af6d</sys_id><sys_mod_count>0</sys_mod_count><sys_name>x_58872_needit_u_cmdb_ci_hardware_infinity</sys_name><sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package><sys_policy/><sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope><sys_update_name>sys_security_acl_9f100881970fb11095d93a300153af6d</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2023-12-09 13:59:19</sys_updated_on><type display_value="record">record</type></sys_security_acl></record_update>]]></payload>
+        <payload_hash>-141729509</payload_hash>
+        <record_name>x_58872_needit_u_cmdb_ci_hardware_infinity</record_name>
+        <reverted_from/>
+        <source>3f10f87c97feb11095d93a300153af32</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-12-09 13:59:19</sys_created_on>
+        <sys_id>93100881970fb11095d93a300153af71</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>18c4ee01d0f0000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-12-09 13:59:19</sys_updated_on>
+        <type>Access Control</type>
+        <update_guid>d7100881a70fb110f9035146b39e4570</update_guid>
+        <update_guid_history>d7100881a70fb110f9035146b39e4570:-141729509</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-12-09 13:59:38</sys_created_on>
+        <sys_db_object display_value="" name="sys_security_acl">sys_security_acl</sys_db_object>
+        <sys_id>5e904d4079a14696b3d01edbe2998504</sys_id>
+        <sys_metadata>9f100881970fb11095d93a300153af6d</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_58872_needit_u_cmdb_ci_hardware_infinity</sys_name>
+        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_parent display_value="">23100881970fb11095d93a300153af93</sys_parent>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_scope_delete display_value="">94872a8897db403e8ee69a431de2fca4</sys_scope_delete>
+        <sys_update_name>sys_security_acl_9f100881970fb11095d93a300153af6d</sys_update_name>
+        <sys_update_version display_value="sys_security_acl_9f100881970fb11095d93a300153af6d">93100881970fb11095d93a300153af71</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-12-09 13:59:38</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>
